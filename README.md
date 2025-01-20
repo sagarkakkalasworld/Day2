@@ -4,13 +4,13 @@ You can use the videos and blogs mentioned here to practice and gain confidence 
 
 ---
 
-## **Day 1**
+## **Day 2**
 
 ### **Blog**  
 [Build and Deploy of React Application](https://www.sagarkakkalasworld.com/2024/04/build-deploy-series-part-2-build-and_27.html)
 
 ### **GitHub Repo**  
-[`Day1`](https://github.com/sagarkakkalasworld/Day2)
+[`Day2`](https://github.com/sagarkakkalasworld/Day2)
 
 ### **Videos**
 - [Watch in English](https://youtu.be/qkKZNJj_XRI)  
