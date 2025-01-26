@@ -1,4 +1,4 @@
-# **Demo Repo for Practising 20Days DevOps to GitOps Series**
+# **Docker Repo for Practising 20Days DevOps to GitOps Series**
 
 You can use the videos and blogs mentioned here to practice and gain confidence in DevOps.
 
